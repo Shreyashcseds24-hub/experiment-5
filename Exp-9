@@ -1,1 +1,5 @@
+git log --online
+git show Hashcode
+git show --no-patch Hashcode
 git log -1 --pretty=format:"%h - %an, %ar - %s"
+git log -1 Hachcode
